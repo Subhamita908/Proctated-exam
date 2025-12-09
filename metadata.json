@@ -1,0 +1,8 @@
+{
+  "name": "ProctorAI - Secure Interview Platform",
+  "description": "A professional, AI-powered secure assessment environment designed by Subhamita Deb. Features real-time proctoring, anti-cheat detection (tab switching, clipboard), and dynamic technical questions.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
